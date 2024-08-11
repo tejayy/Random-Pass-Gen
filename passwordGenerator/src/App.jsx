@@ -28,7 +28,7 @@ function App() {
   };
 
   return (
-    <div className="max-w-md mx-auto bg-white p-6 rounded-md shadow-md">
+    <div className="max-w-md mx-auto p-6 rounded-md shadow-md bg-indigo-400">
       <h1 className="text-xl font-bold mb-4">Password Generator</h1>
       <div className="mb-4">
         <label className="block text-sm font-medium mb-2">Length</label>
